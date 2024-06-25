@@ -1,0 +1,3 @@
+Task :Analyze traffic accident data to identify patters realated to road conditions, weather and time of day. Visualize accident hotspots and contributing factors.
+Task 5 boosted my data analysis skills, refining techniques like cleaning and exploring data. It focused on uncovering patterns in traffic accident data, revealing links between road conditions, weather, and accidents. It also enhanced my ability to create clear visuals, aiding in communicating findings and recommendations for road safety measures.
+DATASET LINK:  [US Accidents (2016 - 2023)](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)
